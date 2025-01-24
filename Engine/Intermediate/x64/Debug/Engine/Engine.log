@@ -1,0 +1,28 @@
+﻿  C:\Users\YB\Desktop\wanted\Engine\Core.h
+  C:\Users\YB\Desktop\wanted\Engine\RTTI.h
+  C:\Users\YB\Desktop\wanted\Engine\Actor\Actor.h
+  C:\Users\YB\Desktop\wanted\Engine\Actor\DrawableActor.h
+  C:\Users\YB\Desktop\wanted\Engine\Container\List.h
+  C:\Users\YB\Desktop\wanted\Engine\Engine\Engine.h
+  C:\Users\YB\Desktop\wanted\Engine\Engine\Timer.h
+  C:\Users\YB\Desktop\wanted\Engine\Level\Level.h
+  C:\Users\YB\Desktop\wanted\Engine\Math\Vector2.h
+  C:\Users\YB\Desktop\wanted\Engine\PreCompiledHeader\PreCompiledHeader.h
+  C:\Users\YB\Desktop\wanted\Engine\Render\ScreenBuffer.h
+  11개 파일이 복사되었습니다.
+  PreCompiledHeader.cpp
+  Actor.cpp
+  DrawableActor.cpp
+  Engine.cpp
+  Timer.cpp
+  Level.cpp
+  Vector2.cpp
+  Main.cpp
+  ScreenBuffer.cpp
+  코드를 생성하고 있습니다...
+     C:\Users\YB\Desktop\wanted\Engine\Bin\x64\Debug\Engine\Engine.lib 라이브러리 및 C:\Users\YB\Desktop\wanted\Engine\Bin\x64\Debug\Engine\Engine.exp 개체를 생성하고 있습니다.
+  Engine.vcxproj -> C:\Users\YB\Desktop\wanted\Engine\Bin\x64\Debug\Engine\Engine.dll
+  C:\Users\YB\Desktop\wanted\Engine\Bin\x64\Debug\Engine\Engine.dll
+  1개 파일이 복사되었습니다.
+  C:\Users\YB\Desktop\wanted\Engine\Bin\x64\Debug\Engine\Engine.lib
+  1개 파일이 복사되었습니다.
