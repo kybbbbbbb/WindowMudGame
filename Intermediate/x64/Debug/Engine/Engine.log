@@ -1,14 +1,14 @@
-﻿  C:\Users\user\Desktop\MudGame_YB\Engine\Core.h
-  C:\Users\user\Desktop\MudGame_YB\Engine\RTTI.h
-  C:\Users\user\Desktop\MudGame_YB\Engine\Actor\Actor.h
-  C:\Users\user\Desktop\MudGame_YB\Engine\Actor\DrawableActor.h
-  C:\Users\user\Desktop\MudGame_YB\Engine\Container\List.h
-  C:\Users\user\Desktop\MudGame_YB\Engine\Engine\Engine.h
-  C:\Users\user\Desktop\MudGame_YB\Engine\Engine\Timer.h
-  C:\Users\user\Desktop\MudGame_YB\Engine\Level\Level.h
-  C:\Users\user\Desktop\MudGame_YB\Engine\Math\Vector2.h
-  C:\Users\user\Desktop\MudGame_YB\Engine\PreCompiledHeader\PreCompiledHeader.h
-  C:\Users\user\Desktop\MudGame_YB\Engine\Render\ScreenBuffer.h
+﻿  C:\Users\user\Desktop\WindowMudGame\Engine\Core.h
+  C:\Users\user\Desktop\WindowMudGame\Engine\RTTI.h
+  C:\Users\user\Desktop\WindowMudGame\Engine\Actor\Actor.h
+  C:\Users\user\Desktop\WindowMudGame\Engine\Actor\DrawableActor.h
+  C:\Users\user\Desktop\WindowMudGame\Engine\Container\List.h
+  C:\Users\user\Desktop\WindowMudGame\Engine\Engine\Engine.h
+  C:\Users\user\Desktop\WindowMudGame\Engine\Engine\Timer.h
+  C:\Users\user\Desktop\WindowMudGame\Engine\Level\Level.h
+  C:\Users\user\Desktop\WindowMudGame\Engine\Math\Vector2.h
+  C:\Users\user\Desktop\WindowMudGame\Engine\PreCompiledHeader\PreCompiledHeader.h
+  C:\Users\user\Desktop\WindowMudGame\Engine\Render\ScreenBuffer.h
   11개 파일이 복사되었습니다.
   PreCompiledHeader.cpp
   Actor.cpp
@@ -20,9 +20,9 @@
   Main.cpp
   ScreenBuffer.cpp
   코드를 생성하고 있습니다...
-     C:\Users\user\Desktop\MudGame_YB\Bin\x64\Debug\Engine\Engine.lib 라이브러리 및 C:\Users\user\Desktop\MudGame_YB\Bin\x64\Debug\Engine\Engine.exp 개체를 생성하고 있습니다.
-  Engine.vcxproj -> C:\Users\user\Desktop\MudGame_YB\Bin\x64\Debug\Engine\Engine.dll
-  C:\Users\user\Desktop\MudGame_YB\Bin\x64\Debug\Engine\Engine.dll
+     C:\Users\user\Desktop\WindowMudGame\Bin\x64\Debug\Engine\Engine.lib 라이브러리 및 C:\Users\user\Desktop\WindowMudGame\Bin\x64\Debug\Engine\Engine.exp 개체를 생성하고 있습니다.
+  Engine.vcxproj -> C:\Users\user\Desktop\WindowMudGame\Bin\x64\Debug\Engine\Engine.dll
+  C:\Users\user\Desktop\WindowMudGame\Bin\x64\Debug\Engine\Engine.dll
   1개 파일이 복사되었습니다.
-  C:\Users\user\Desktop\MudGame_YB\Bin\x64\Debug\Engine\Engine.lib
+  C:\Users\user\Desktop\WindowMudGame\Bin\x64\Debug\Engine\Engine.lib
   1개 파일이 복사되었습니다.
